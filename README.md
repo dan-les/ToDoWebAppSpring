@@ -8,3 +8,15 @@
 ----
 * Pure.css
 * HTML + CSS + JavaScript
+
+
+# How it works
+### Start page
+<p align="center">
+  <img src="./img/1.PNG" />
+</p>
+
+### Task management
+<p align="center">
+  <img src="./img/2.PNG" />
+</p>
