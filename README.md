@@ -3,6 +3,7 @@
 * SQL - H2 database
 * Hibernate
 * Flywaydb
+* Java + Maven
 
 
 ----
